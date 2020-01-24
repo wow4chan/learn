@@ -4,9 +4,6 @@
 [submodule "hackerrank"]
 	path = hackerrank
 	url = git@github.com:winnochan/hackerrank.git
-[submodule "introduction-to-algorithms"]
-	path = introduction-to-algorithms
-	url = git@github.com:winnochan/introduction-to-algorithms.git
 [submodule "spoj"]
 	path = spoj
 	url = git@github.com:winnochan/spoj.git
